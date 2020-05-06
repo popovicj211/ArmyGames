@@ -1,0 +1,5 @@
+Error database connection:SQLSTATE[HY000] [1049] Unknown database 'armygames2'
+Error database connection:SQLSTATE[HY000] [1049] Unknown database 'armygames'
+Error database connection:SQLSTATE[HY000] [1049] Unknown database 'armygames'
+Error database connection:SQLSTATE[HY000] [1049] Unknown database 'armygames'
+Error database connection:SQLSTATE[HY000] [1049] Unknown database 'armygames'
